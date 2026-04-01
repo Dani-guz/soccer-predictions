@@ -1,2 +1,23 @@
-ipykernel
-python-dotenv
+# ──────────────────────────────────────────────
+# Soccer Predictions - Dependencies
+# ──────────────────────────────────────────────
+# Generado para Python 3.10+
+# Instalar con: pip install -r requirements.txt
+
+# Data manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+
+# Statistics
+scipy>=1.11.0
+
+# HTTP requests (data download)
+requests>=2.31.0
